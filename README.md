@@ -1,8 +1,3 @@
-# Backup the original README
-cp README.md README.original.md
-
-# Create a new README.md
-cat > README.md << 'EOF'
 # Advanced SQL Techniques for E-commerce Analytics Dashboard
 
 An interactive dashboard showcasing advanced SQL techniques for analyzing e-commerce sales and finance data with stunning visualizations.
@@ -72,3 +67,33 @@ Each section includes:
 - Code snippets
 - Interactive visualization
 - Key business insights
+
+### Project Structure
+advanced-sql-ecommerce-analytics/
+├── README.md
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+├── sql/
+│   ├── schema.sql
+│   └── sample_data.sql
+├── assets/
+│   └── images/
+└── data/
+    └── (optional: sample data files)
+
+### Future Improvements
+- Connect to a real database via a backend API
+- Implement user authentication and role-based access
+- Add more interactive features (e.g., date range selectors)
+- Include additional SQL techniques and visualizations
+- Optimize for mobile devices
+
+### License
+This project is licensed under the MIT License - see the [LICENSE](https://chat.z.ai/c/LICENSE) file for details.
+
+### Acknowledgments
+- Chart.js for the powerful charting library
+- Bootstrap for the responsive UI components
