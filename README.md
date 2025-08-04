@@ -66,27 +66,8 @@ Each section includes:
 - A description of the SQL technique
 - Code snippets
 - Interactive visualization
-<<<<<<< HEAD
-- Key business insights< Force rebuild at Tue Aug  5 03:42:51 CST 2025 -->
-< Force rebuild at Tue Aug  5 03:43:57 CST 2025 -->
-=======
 - Key business insights
 
-### Project Structure
-advanced-sql-ecommerce-analytics/
-├── README.md
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── main.js
-├── sql/
-│   ├── schema.sql
-│   └── sample_data.sql
-├── assets/
-│   └── images/
-└── data/
-    └── (optional: sample data files)
 
 ### Future Improvements
 - Connect to a real database via a backend API
@@ -101,4 +82,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://chat.
 ### Acknowledgments
 - Chart.js for the powerful charting library
 - Bootstrap for the responsive UI components
->>>>>>> be16ff04e314a532e1aecb3a5602432c172d3a10
